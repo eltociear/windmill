@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.217.0](https://github.com/windmill-labs/windmill/compare/v1.216.0...v1.217.0) (2023-11-26)
+
+
+### Features
+
+* add support for raw query args ([8275602](https://github.com/windmill-labs/windmill/commit/82756023728fe392fee93a7bba0567ce582aad8c))
+
 ## [1.216.0](https://github.com/windmill-labs/windmill/compare/v1.215.0...v1.216.0) (2023-11-26)
 
 
